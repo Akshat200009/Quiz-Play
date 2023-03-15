@@ -94,7 +94,7 @@ body {
     top: 0;
 }
 
-@media (max-width:100%) {
+@media (max-width:650px) {
     body {
         /* background: url(photos/coding.jpg) center center; */
         background-repeat: no-repeat;
